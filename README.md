@@ -60,17 +60,3 @@ Contributions are welcome! Please fork the repository, create a feature branch, 
 
 ## Contact
 For questions or feedback, reach out to shangminch@gmail.com.
-```
-
----
-
-### Notes
-- The command `cp -r build/* ../care/src/main/resources/static/` assumes:
-  - You’re in the `care-frontend` directory when running it.
-  - `care` is a sibling directory (e.g., `../care`).
-  - The target directory `src/main/resources/static/` exists in the `care` repo.
-- If your directory structure is different (e.g., absolute paths or nested locations), replace the relative path with the correct one, like:  
-  ```bash
-  cp -r build/* /path/to/care/src/main/resources/static/
-  ```
-- Let me know if you need further adjustments! The `care` README remains unchanged since it didn’t require this specific addition.
