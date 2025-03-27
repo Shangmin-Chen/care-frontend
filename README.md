@@ -13,7 +13,8 @@
 
 ## Project Status
 - **Current State**: The frontend is functional and integrated into the `care` repository via build files.
-- **Future Plans**: In the foreseeable future, development will focus on enhancing the UI/UX and adding new features to complement the backend tree logic.
+- **Next Feature**: Create react node component
+- **Future Plans**: In the foreseeable future, development will focus on enhancing the UI/UX with pixel art using Aseprite.
 
 ## Prerequisites
 - Node.js 18+ and npm
