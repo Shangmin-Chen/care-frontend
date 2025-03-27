@@ -12,8 +12,8 @@
 - **Build Tools**: npm
 
 ## Project Status
-- **Current State**: The frontend is functional and integrated into the `care` repository via build files.
-- **Next Feature**: Create react node component
+- **Current State**: Created react node component and added to frontend.
+- **Next Feature**: Create an oauth landing page
 - **Future Plans**: In the foreseeable future, development will focus on enhancing the UI/UX with pixel art using Aseprite.
 
 ## Prerequisites
